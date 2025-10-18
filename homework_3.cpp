@@ -2,6 +2,9 @@
 
 int main() {
     /*
+	https://www.luogu.com.cn/problem/P1425
+
+
     计算同学的游泳时间
         如：下午1点 50分 游到 下午2点 20分  
         他的回答是 0hour 30min 
